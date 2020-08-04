@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IntergeratedDocumentExplorer.Lib.FileInputOuput" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAAAAAAAwAgAAAAAAIAAAAAUAABAAAAAAAABA=</HashCode>
+      <FileName>FileInputOuput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.429" />
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.Font" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAYAAAAIAAAAAAAgACAAAAAAAAkAACICAAA=</HashCode>
+      <FileName>Font.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.FileEventsArgs" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAA=</HashCode>
+      <FileName>FileEventsArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.FontEvnentArgs" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAACAAAAAAAACAAAAAAAAAAAAAJACAAABAAEAAAA=</HashCode>
+      <FileName>FontEvnentArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.Pharagraph" Collapsed="true">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAABAAAAAAAAAAAAgAACAAIAAAAAAA=</HashCode>
+      <FileName>Pharagraph.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.PharagraphEventArgs" Collapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAA=</HashCode>
+      <FileName>PharagraphEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.Zoom" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAABAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Zoom.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.ZoomEventsArgs" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ZoomEventsArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergeratedDocumentExplorer.Lib.EditingOperations" Collapsed="true">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAACAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EditingOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="IntergeratedDocumentExplorer.Lib.IFileInputOutput" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAAAAAAAQAAAAAAAAIAAAAAUAABAAAAAAAABA=</HashCode>
+      <FileName>IFileInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergeratedDocumentExplorer.Lib.IFont" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAYAAAAAAAAAAAAgACAAAAAAAAkAACICAAA=</HashCode>
+      <FileName>IFont.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergeratedDocumentExplorer.Lib.IPharagraph" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAA=</HashCode>
+      <FileName>IPharagraph.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergeratedDocumentExplorer.Lib.IZoom" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IZoom.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergeratedDocumentExplorer.Lib.IEditingOperations" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAACAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEditingOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
